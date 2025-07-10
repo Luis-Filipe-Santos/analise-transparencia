@@ -1,5 +1,22 @@
-.venv/ 
-__pycache__/ 
-*.pyc 
-*.pyo 
-*.pyd 
+# Ambientes virtuais
+.venv/
+env/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Notebooks temporários
+.ipynb_checkpoints/
+
+# Arquivos CSV e dados
+*.csv
+dados/
+
+# Arquivos do VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
