@@ -40,6 +40,7 @@ Crie e ative um ambiente virtual:
 
 ```bash
 python -m venv .venv
+```
 
 # Ativação no Windows
 .venv\Scripts\activate
@@ -68,6 +69,7 @@ images/                # Pasta contendo as imagens geradas
 relatorio.md           # Relatório completo em Markdown com análises e visualizações
 requirements.txt       # Lista de dependências Python necessárias
 notebooks/             # (Opcional) Jupyter Notebooks usados na análise
+```
 
 ## 🤝 Contribuições
 - Base: Curso Python para Dados: do Zero à Análise Completa (Asimov)
